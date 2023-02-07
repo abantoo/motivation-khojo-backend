@@ -1,0 +1,5 @@
+{
+  "username": "mongo-username",
+  "password": "mongo-password" ,
+  "cluster": "example.mongodb.net"
+}
